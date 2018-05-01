@@ -1,3 +1,3 @@
 # mars-rovers-challange
 
-Open it with XCode and just run it with The Simulator
+Open it with Xcode and just run it with The Simulator
